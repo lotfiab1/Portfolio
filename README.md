@@ -15,7 +15,7 @@ I created this portfolio to showcase my projects, technical skills, and continuo
 I am always eager to learn new technologies, take on challenging projects, and collaborate with others to build impactful solutions.
 
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](./cv.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
