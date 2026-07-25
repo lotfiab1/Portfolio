@@ -1,10 +1,19 @@
-# Tianna Parris - Data Analyst Portfolio
+# Lotfi Ait Baaya - Data Analyst & AI Portfolio
+
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Hi, I'm **Lotfi Ait Baaya**, a graduate with a **Bachelor's Degree in Data Analysis and Artificial Intelligence** from the Faculty of Sciences, Ibn Zohr University, Morocco.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I am passionate about transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems. Throughout my academic journey, I developed strong analytical, programming, and problem-solving skills while working on projects involving **data analysis, machine learning, artificial intelligence, and software development**.
+
+My technical toolkit includes **Python, SQL, Java, C/C++, JavaScript**, and popular data science libraries such as **Pandas, NumPy, Matplotlib, Scikit-learn, and PyTorch**. I enjoy working with data, developing machine learning models, automating workflows, and creating applications that combine data analysis with practical software solutions.
+
+Beyond data analytics, I have experience in web development, desktop application development, and database management, allowing me to approach projects from both a data and software engineering perspective.
+
+I created this portfolio to showcase my projects, technical skills, and continuous learning journey. I am currently seeking opportunities as a **Data Analyst, AI Engineer, Machine Learning Engineer, or Python Developer**, where I can contribute, continue learning, and grow as a technology professional.
+
+I am always eager to learn new technologies, take on challenging projects, and collaborate with others to build impactful solutions.
+
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
