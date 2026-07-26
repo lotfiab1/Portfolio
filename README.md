@@ -1,4 +1,4 @@
-# Lotfi Ait Baaya - Data Analyst & AI Portfolio
+# Lotfi Ait Baaya - Data Analyst & AI DEV
 
 ## About
 
