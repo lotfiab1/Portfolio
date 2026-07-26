@@ -70,16 +70,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-faculty of science, Agadir: 
-Licence (Bachelor's degree) - Data Analysis and artificial intelligence,
-2024 -  2026
+### Faculty of Sciences, Université Ibn Zohr, Agadir
+**Licence (Bachelor's Degree) - Data Analysis and Artificial Intelligence**  
+2024 - 2026
 
-The University of the West Indies, Mona:
-DEUP (2-year university diploma equivalent to an Associate Degree), Computer Engineering,
+### Faculty Polydisciplinary, Université Ibn Zohr, Taroudant:
+**DEUG (2-year University Diploma) - Computer Engineering**  
 2022 - 2024
 
-lycee moulay youssef:
-Baccalaureate (High school diploma), Physical Sciences ,
+### lycee moulay youssef:
+**Baccalaureate (High school diploma), Physical Sciences** ,
 2021 - 2022
 
 
