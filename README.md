@@ -70,17 +70,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-### Faculty of Sciences, Université Ibn Zohr, Agadir
-**Licence (Bachelor's Degree) - Data Analysis and Artificial Intelligence**  
-2024 - 2026
 
-### Faculty Polydisciplinary, Université Ibn Zohr, Taroudant:
-**DEUG (2-year University Diploma) - Computer Engineering**  
-2022 - 2024
+### Licence in Data Analysis and Artificial Intelligence
+**Faculty of Sciences, Université Ibn Zohr — Agadir, Morocco**  
+2024 – 2025
 
-### lycee moulay youssef:
-**Baccalaureate (High school diploma), Physical Sciences** ,
-2021 - 2022
+### DEUG in Computer Engineering
+**Faculty Polydisciplinary, Université Ibn Zohr — Taroudant, Morocco**  
+2022 – 2024
+
+### Baccalaureate in Physical Sciences
+**Lycée Moulay Youssef — Morocco**  
+2021 – 2022
 
 
 ## Contacts
