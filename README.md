@@ -75,7 +75,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Faculty of Sciences, Université Ibn Zohr — Agadir, Morocco**  
 2024 – 2025
 
-### DEUG in Computer Engineering
+### DEUP in Computer Engineering
 **Faculty Polydisciplinary, Université Ibn Zohr — Taroudant, Morocco**  
 2022 – 2024
 
@@ -85,5 +85,5 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Contacts
-- LinkedIn: [@lotfiab](https://www.linkedin.com/in/lotfi-ait-baaya-10b55a373)
-- Email: lotfi.aitbaaya.24@gmail.com
+- LinkedIn: [@lotfiab1](https://www.linkedin.com/in/lotfiab1)
+- Email: [lotfi.aitbaaya.24@gmail.com](mailto:lotfi.aitbaaya.24@gmail.com)
