@@ -85,5 +85,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Contacts
+- Website: [Visit Website](https://lotfiab1.github.io/lotfi-protfolio/)
 - LinkedIn: [@lotfiab1](https://www.linkedin.com/in/lotfiab1)
 - Email: [lotfi.aitbaaya.24@gmail.com](mailto:lotfi.aitbaaya.24@gmail.com)
